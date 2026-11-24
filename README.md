@@ -1,4 +1,4 @@
-﻿# P10: CI/CD Pipeline for an ML Project
+# P10: CI/CD Pipeline for an ML Project
 
 Automated MLOps pipeline using **GitHub Actions** that:
 1. Lints Python code using lake8

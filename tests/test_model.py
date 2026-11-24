@@ -1,4 +1,4 @@
-﻿import os
+import os
 from src.train import train_and_evaluate
 
 
