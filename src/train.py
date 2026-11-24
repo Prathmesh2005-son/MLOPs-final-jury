@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
 # Quality gate threshold (set to 0.999 to trigger deliberate failure)
-ACCURACY_THRESHOLD = 0.85
+ACCURACY_THRESHOLD = 1.01
 
 
 def train_and_evaluate(threshold=ACCURACY_THRESHOLD):
